@@ -1,0 +1,25 @@
+nav{
+  font-family: sans-serif;
+}
+
+footer{
+  background-color: lightgrey;
+  text-align:center;
+  padding: 7px;
+  position: relative;
+  bottom: 0;
+  width: inherit;
+  margin: 5px;
+}
+
+img{
+  align-items:center;
+}
+
+main{
+  background-color: mintcream;
+}
+
+.pad{
+  padding:10px;
+}
